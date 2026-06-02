@@ -1,0 +1,43 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific files
+.env
+config.json
+downtomate.log
+downtomate.log.old
+rsrc.syso
+
+# Temporary files created by the application during processing
+*.tmp
+*.crdownload
+*.part
